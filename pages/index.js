@@ -20,6 +20,7 @@ export default function IndexPage({ postList }) {
     <main>
       <Head>
         <title>Home page from main</title>
+        <title>feature branch</title>
       </Head>
 
       <h1>List of posts</h1>
